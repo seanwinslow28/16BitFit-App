@@ -1,0 +1,252 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EvolutionCeremonyScreen Snapshots matches snapshot for overlay phase 1`] = `
+<View
+  edges={
+    [
+      "top",
+      "bottom",
+    ]
+  }
+  style={
+    {
+      "backgroundColor": "#9BBC0F",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "bottom": 0,
+          "justifyContent": "center",
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "zIndex": 9999,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "backgroundColor": "#9BBC0F",
+            "bottom": 0,
+            "left": 0,
+            "opacity": 0.95,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+      <View
+        accessibilityHint="Tap to skip evolution animation"
+        accessibilityLabel="Evolution animation in progress"
+        accessibilityRole="button"
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "alignItems": "center",
+            "flex": 1,
+            "justifyContent": "center",
+            "opacity": 1,
+            "paddingHorizontal": 24,
+            "width": "100%",
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "backgroundColor": "#8BAC0F",
+              "borderColor": "#0F380F",
+              "borderRadius": 0,
+              "borderWidth": 4,
+              "elevation": 4,
+              "marginBottom": 40,
+              "maxWidth": 300,
+              "padding": 16,
+              "shadowColor": "#0F380F",
+              "shadowOffset": {
+                "height": 4,
+                "width": 4,
+              },
+              "shadowOpacity": 1,
+              "shadowRadius": 0,
+            }
+          }
+          testID="pixel-border"
+        >
+          <Text
+            accessibilityRole="header"
+            accessible={true}
+            allowFontScaling={true}
+            style={
+              {
+                "color": "#0F380F",
+                "fontFamily": "PressStart2P-Regular",
+                "fontSize": 16,
+                "fontWeight": "400",
+                "letterSpacing": 0,
+                "lineHeight": 22.4,
+                "textAlign": "center",
+                "textTransform": "uppercase",
+              }
+            }
+            testID="pixel-text"
+          >
+            YOUR CHAMPION IS
+            
+
+            EVOLVING!
+          </Text>
+        </View>
+        <View
+          style={
+            {
+              "backgroundColor": "#9BBC0F",
+              "borderColor": "#306230",
+              "borderRadius": 0,
+              "borderWidth": 4,
+              "elevation": 0,
+              "marginBottom": 32,
+              "padding": undefined,
+            }
+          }
+          testID="pixel-border"
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "height": 160,
+                "justifyContent": "center",
+                "width": 160,
+              }
+            }
+          >
+            <Image
+              accessibilityElementsHidden={true}
+              resizeMode="contain"
+              source={
+                {
+                  "uri": "https://example.com/avatar-stage-1.png",
+                }
+              }
+              style={
+                [
+                  {
+                    "height": 128,
+                    "width": 128,
+                  },
+                  {
+                    "opacity": 1,
+                  },
+                ]
+              }
+            />
+            <Image
+              accessibilityElementsHidden={true}
+              resizeMode="contain"
+              source={
+                {
+                  "uri": "https://example.com/avatar-stage-2.png",
+                }
+              }
+              style={
+                [
+                  {
+                    "height": 128,
+                    "width": 128,
+                  },
+                  {
+                    "position": "absolute",
+                  },
+                  {
+                    "opacity": 0,
+                  },
+                ]
+              }
+            />
+          </View>
+        </View>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          style={
+            {
+              "color": "#306230",
+              "fontFamily": "Montserrat-Regular",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "letterSpacing": 0,
+              "lineHeight": 16.5,
+              "marginTop": 24,
+              "opacity": 0.7,
+              "textAlign": "center",
+            }
+          }
+          testID="pixel-text"
+        >
+          Tap to skip
+        </Text>
+      </View>
+      <View
+        pointerEvents="none"
+        style={
+          [
+            {
+              "backgroundColor": "#8BAC0F",
+              "bottom": 0,
+              "left": 0,
+              "pointerEvents": "none",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "opacity": 0,
+            },
+          ]
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
