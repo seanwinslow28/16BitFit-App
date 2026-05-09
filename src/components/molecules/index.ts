@@ -11,3 +11,8 @@ export {MomentumBar} from './MomentumBar';
 export {ProgressRing} from './ProgressRing';
 export {StreakBar} from './StreakBar';
 export {StatsDisplay} from './StatsDisplay';
+export {default as ProfileHeader} from './ProfileHeader';
+export {default as ArchetypeCard} from './ArchetypeCard';
+export {HomeAvatar} from './HomeAvatar';
+export {QuestCartridge} from './QuestCartridge';
+export {TrainingCartridge} from './TrainingCartridge';
