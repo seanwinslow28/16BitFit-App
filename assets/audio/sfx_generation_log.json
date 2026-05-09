@@ -1,0 +1,1312 @@
+[
+  {
+    "id": "SFX-COMBAT-001",
+    "filename": "combat/general/sfx-combat-001_light-punch-whiff.mp3",
+    "prompt": "Quick whoosh of fist moving through air, light punch swing, fast martial arts strike sound effect",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "SF2-style light attack whoosh",
+    "success": true,
+    "output_path": "./assets/audio/combat/general/sfx-combat-001_light-punch-whiff.mp3"
+  },
+  {
+    "id": "SFX-COMBAT-002",
+    "filename": "combat/general/sfx-combat-002_medium-punch-whiff.mp3",
+    "prompt": "Stronger whoosh of fist cutting through air, medium force punch swing, martial arts attack sound",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "More force than light punch",
+    "success": true,
+    "output_path": "./assets/audio/combat/general/sfx-combat-002_medium-punch-whiff.mp3"
+  },
+  {
+    "id": "SFX-COMBAT-003",
+    "filename": "combat/general/sfx-combat-003_heavy-punch-whiff.mp3",
+    "prompt": "Powerful whoosh with wind-up, heavy punch swing through air, strong martial arts strike sound effect",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Maximum power whoosh",
+    "success": true,
+    "output_path": "./assets/audio/combat/general/sfx-combat-003_heavy-punch-whiff.mp3"
+  },
+  {
+    "id": "SFX-COMBAT-004",
+    "filename": "combat/general/sfx-combat-004_light-kick-whiff.mp3",
+    "prompt": "Swift kick whoosh, leg cutting through air, quick karate kick sound effect",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Light kick whoosh",
+    "success": true,
+    "output_path": "./assets/audio/combat/general/sfx-combat-004_light-kick-whiff.mp3"
+  },
+  {
+    "id": "SFX-COMBAT-005",
+    "filename": "combat/general/sfx-combat-005_medium-kick-whiff.mp3",
+    "prompt": "Moderate kick whoosh, leg sweeping through air, mid-level martial arts kick sound",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Medium force kick",
+    "success": true,
+    "output_path": "./assets/audio/combat/general/sfx-combat-005_medium-kick-whiff.mp3"
+  },
+  {
+    "id": "SFX-COMBAT-006",
+    "filename": "combat/general/sfx-combat-006_heavy-kick-whiff.mp3",
+    "prompt": "Powerful kick whoosh with spin, heavy roundhouse kick through air, forceful martial arts attack",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Maximum power kick whoosh",
+    "success": true,
+    "output_path": "./assets/audio/combat/general/sfx-combat-006_heavy-kick-whiff.mp3"
+  },
+  {
+    "id": "SFX-COMBAT-007",
+    "filename": "combat/general/sfx-combat-007_hit-connect-light.mp3",
+    "prompt": "Light impact sound, quick punch connecting with body, sharp thud of hit landing, Street Fighter style",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Satisfying light hit confirm",
+    "success": true,
+    "output_path": "./assets/audio/combat/general/sfx-combat-007_hit-connect-light.mp3"
+  },
+  {
+    "id": "SFX-COMBAT-008",
+    "filename": "combat/general/sfx-combat-008_hit-connect-medium.mp3",
+    "prompt": "Solid impact sound, meaty punch hitting body, strong thud of martial arts strike connecting",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "SF2-style meaty hit",
+    "success": true,
+    "output_path": "./assets/audio/combat/general/sfx-combat-008_hit-connect-medium.mp3"
+  },
+  {
+    "id": "SFX-COMBAT-009",
+    "filename": "combat/general/sfx-combat-009_hit-connect-heavy.mp3",
+    "prompt": "Devastating impact with deep crunch, powerful punch landing hard, bone-crushing hit sound effect",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Maximum impact, screen shake worthy",
+    "success": true,
+    "output_path": "./assets/audio/combat/general/sfx-combat-009_hit-connect-heavy.mp3"
+  },
+  {
+    "id": "SFX-COMBAT-010",
+    "filename": "combat/general/sfx-combat-010_block.mp3",
+    "prompt": "Defensive block sound, attack deflected by guard, sharp protective shield impact, martial arts defense",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "SF2 guard sound",
+    "success": true,
+    "output_path": "./assets/audio/combat/general/sfx-combat-010_block.mp3"
+  },
+  {
+    "id": "SFX-COMBAT-011",
+    "filename": "combat/general/sfx-combat-011_damage-light.mp3",
+    "prompt": "Light damage reaction, soft impact on body, subtle pain sound, character taking minor hit",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Accompanies light hit grunt VO",
+    "success": true,
+    "output_path": "./assets/audio/combat/general/sfx-combat-011_damage-light.mp3"
+  },
+  {
+    "id": "SFX-COMBAT-012",
+    "filename": "combat/general/sfx-combat-012_damage-heavy.mp3",
+    "prompt": "Heavy damage impact, significant body hit sound, painful strike landing, character taking major damage",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Accompanies heavy hit grunt VO",
+    "success": true,
+    "output_path": "./assets/audio/combat/general/sfx-combat-012_damage-heavy.mp3"
+  },
+  {
+    "id": "SFX-COMBAT-013",
+    "filename": "combat/general/sfx-combat-013_jump.mp3",
+    "prompt": "Upward whoosh of character jumping, lift-off sound effect, martial arts leap into air",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "SF2 jump mechanic",
+    "success": true,
+    "output_path": "./assets/audio/combat/general/sfx-combat-013_jump.mp3"
+  },
+  {
+    "id": "SFX-COMBAT-014",
+    "filename": "combat/general/sfx-combat-014_land.mp3",
+    "prompt": "Impact landing thud, feet hitting ground after jump, weight dropping down, solid foley",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Landing after jump",
+    "success": true,
+    "output_path": "./assets/audio/combat/general/sfx-combat-014_land.mp3"
+  },
+  {
+    "id": "SFX-COMBAT-015",
+    "filename": "combat/general/sfx-combat-015_footstep.mp3",
+    "prompt": "Single footstep on training floor, rhythmic step sound, martial arts dojo footstep foley",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Generic footstep, per step",
+    "success": true,
+    "output_path": "./assets/audio/combat/general/sfx-combat-015_footstep.mp3"
+  },
+  {
+    "id": "SFX-COMBAT-016",
+    "filename": "combat/general/sfx-combat-016_combo-hit.mp3",
+    "prompt": "Rapid-fire hit impact, multiple strikes in quick succession, combo counter sound, escalating impacts",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Per hit in combo sequence",
+    "success": true,
+    "output_path": "./assets/audio/combat/general/sfx-combat-016_combo-hit.mp3"
+  },
+  {
+    "id": "SFX-COMBAT-017",
+    "filename": "combat/general/sfx-combat-017_counter-hit.mp3",
+    "prompt": "Special counter impact with sparkle effect, precision timing strike, critical hit sound with shimmer",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Extra satisfying, precision counter",
+    "success": true,
+    "output_path": "./assets/audio/combat/general/sfx-combat-017_counter-hit.mp3"
+  },
+  {
+    "id": "SFX-COMBAT-021",
+    "filename": "combat/general/sfx-combat-021_energy-deplete.mp3",
+    "prompt": "Power-down sound, energy draining effect, mechanical energy loss, descending electronic tone",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Energy meter warning",
+    "success": true,
+    "output_path": "./assets/audio/combat/general/sfx-combat-021_energy-deplete.mp3"
+  },
+  {
+    "id": "SFX-COMBAT-022",
+    "filename": "combat/general/sfx-combat-022_energy-recharge.mp3",
+    "prompt": "Power-up sound, energy recharging effect, positive restoration tone, ascending electronic charge",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Energy restoration feedback",
+    "success": true,
+    "output_path": "./assets/audio/combat/general/sfx-combat-022_energy-recharge.mp3"
+  },
+  {
+    "id": "SFX-COMBAT-023",
+    "filename": "combat/general/sfx-combat-023_low-energy-warning.mp3",
+    "prompt": "Pulsing alert tone, urgent warning beep, critical energy alarm, repeating danger signal",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Loops every 2 seconds when energy <10%",
+    "success": true,
+    "output_path": "./assets/audio/combat/general/sfx-combat-023_low-energy-warning.mp3"
+  },
+  {
+    "id": "SFX-COMBAT-024",
+    "filename": "combat/general/sfx-combat-024_insufficient-energy.mp3",
+    "prompt": "Error buzz, denied action sound, negative feedback beep, insufficient resource alert",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Action denied feedback",
+    "success": true,
+    "output_path": "./assets/audio/combat/general/sfx-combat-024_insufficient-energy.mp3"
+  },
+  {
+    "id": "SFX-CHAR-SEAN-001",
+    "filename": "combat-characters/sean/sfx/sfx-char-sean-001_footstep.mp3",
+    "prompt": "Athletic sneaker step on training floor, clean crisp footstep with slight squeak, gym floor foley",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Sean's athletic sneaker step",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/sean/sfx/sfx-char-sean-001_footstep.mp3"
+  },
+  {
+    "id": "SFX-CHAR-SEAN-002",
+    "filename": "combat-characters/sean/sfx/sfx-char-sean-002_jump-whoosh.mp3",
+    "prompt": "Clean upward whoosh during jump, athletic leap through air, balanced fighter ascending",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Sean's jump sound",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/sean/sfx/sfx-char-sean-002_jump-whoosh.mp3"
+  },
+  {
+    "id": "SFX-CHAR-SEAN-003",
+    "filename": "combat-characters/sean/sfx/sfx-char-sean-003_land-thud.mp3",
+    "prompt": "Solid athletic landing, controlled impact on ground, balanced fighter landing foley",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Sean landing after jump",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/sean/sfx/sfx-char-sean-003_land-thud.mp3"
+  },
+  {
+    "id": "SFX-CHAR-SEAN-004",
+    "filename": "combat-characters/sean/sfx/sfx-char-sean-004_fireball-projectile.mp3",
+    "prompt": "Energy projectile sound, Street Fighter style hadouken, 8-bit energy wave traveling across screen",
+    "duration_seconds": 0.8,
+    "prompt_influence": 0.7,
+    "notes": "Fitness Fireball special move",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/sean/sfx/sfx-char-sean-004_fireball-projectile.mp3"
+  },
+  {
+    "id": "SFX-CHAR-MARY-001",
+    "filename": "combat-characters/mary/sfx/sfx-char-mary-001_footstep.mp3",
+    "prompt": "Light quick sneaker step with bounce, rapid bouncy footstep, energetic light step foley",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Mary's light, bouncy step",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/mary/sfx/sfx-char-mary-001_footstep.mp3"
+  },
+  {
+    "id": "SFX-CHAR-MARY-002",
+    "filename": "combat-characters/mary/sfx/sfx-char-mary-002_jump-whoosh.mp3",
+    "prompt": "High-pitched air whoosh during quick jump, light upward leap sound, energetic bounce",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Mary's quick jump",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/mary/sfx/sfx-char-mary-002_jump-whoosh.mp3"
+  },
+  {
+    "id": "SFX-CHAR-MARY-003",
+    "filename": "combat-characters/mary/sfx/sfx-char-mary-003_land-thud.mp3",
+    "prompt": "Light landing impact, quick controlled landing, lighter footstep on ground foley",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Mary landing after jump",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/mary/sfx/sfx-char-mary-003_land-thud.mp3"
+  },
+  {
+    "id": "SFX-CHAR-MARY-004",
+    "filename": "combat-characters/mary/sfx/sfx-char-mary-004_dash-rush.mp3",
+    "prompt": "Rapid whooshing with multiple impact points, multi-hit dash attack, fast movement with striking sounds",
+    "duration_seconds": 1.0,
+    "prompt_influence": 0.7,
+    "notes": "Cardio Rush special move",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/mary/sfx/sfx-char-mary-004_dash-rush.mp3"
+  },
+  {
+    "id": "SFX-CHAR-MARY-005",
+    "filename": "combat-characters/mary/sfx/sfx-char-mary-005_glove-impact.mp3",
+    "prompt": "Boxing glove impact sound, padded punch landing, quick recovery thud, lighter than bare fist",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Mary's unique glove punch sound",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/mary/sfx/sfx-char-mary-005_glove-impact.mp3"
+  },
+  {
+    "id": "SFX-CHAR-MARCUS-001",
+    "filename": "combat-characters/marcus/sfx/sfx-char-marcus-001_footstep.mp3",
+    "prompt": "Heavy powerful footstep, solid deliberate step with weight, heavyweight fighter walking foley",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Marcus's heavy step",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/marcus/sfx/sfx-char-marcus-001_footstep.mp3"
+  },
+  {
+    "id": "SFX-CHAR-MARCUS-002",
+    "filename": "combat-characters/marcus/sfx/sfx-char-marcus-002_jump-whoosh.mp3",
+    "prompt": "Short controlled jump whoosh, heavyweight staying grounded, minimal air time leap",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Marcus's rare jump",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/marcus/sfx/sfx-char-marcus-002_jump-whoosh.mp3"
+  },
+  {
+    "id": "SFX-CHAR-MARCUS-003",
+    "filename": "combat-characters/marcus/sfx/sfx-char-marcus-003_land-thud.mp3",
+    "prompt": "Heavy landing impact, ground shakes, solid heavyweight boxer landing with force",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Marcus landing after jump",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/marcus/sfx/sfx-char-marcus-003_land-thud.mp3"
+  },
+  {
+    "id": "SFX-CHAR-MARCUS-004",
+    "filename": "combat-characters/marcus/sfx/sfx-char-marcus-004_uppercut-windup.mp3",
+    "prompt": "Charging energy for powerful uppercut, building power with deep rumble, energy gathering sound",
+    "duration_seconds": 0.6,
+    "prompt_influence": 0.7,
+    "notes": "Champion Uppercut charge",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/marcus/sfx/sfx-char-marcus-004_uppercut-windup.mp3"
+  },
+  {
+    "id": "SFX-CHAR-MARCUS-005",
+    "filename": "combat-characters/marcus/sfx/sfx-char-marcus-005_glove-impact.mp3",
+    "prompt": "Heavy boxing glove impact, devastating punch landing, deep meaty thud of golden gloves striking",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Marcus's powerful glove punch",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/marcus/sfx/sfx-char-marcus-005_glove-impact.mp3"
+  },
+  {
+    "id": "SFX-CHAR-ARIA-001",
+    "filename": "combat-characters/aria/sfx/sfx-char-aria-001_footstep.mp3",
+    "prompt": "Gliding dance-like footstep, smooth flowing step, cat-like graceful movement foley",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Aria's graceful step",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/aria/sfx/sfx-char-aria-001_footstep.mp3"
+  },
+  {
+    "id": "SFX-CHAR-ARIA-002",
+    "filename": "combat-characters/aria/sfx/sfx-char-aria-002_jump-whoosh.mp3",
+    "prompt": "Graceful high leap whoosh, extended air time jump, flowing arc through air, dancer's leap",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Aria's graceful jump",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/aria/sfx/sfx-char-aria-002_jump-whoosh.mp3"
+  },
+  {
+    "id": "SFX-CHAR-ARIA-003",
+    "filename": "combat-characters/aria/sfx/sfx-char-aria-003_land-thud.mp3",
+    "prompt": "Soft controlled landing, graceful dancer landing barely making sound, light foley impact",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Aria landing after jump",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/aria/sfx/sfx-char-aria-003_land-thud.mp3"
+  },
+  {
+    "id": "SFX-CHAR-ARIA-004",
+    "filename": "combat-characters/aria/sfx/sfx-char-aria-004_spin-attack.mp3",
+    "prompt": "Multi-hit spinning attack sound, rhythmic whooshes with dance-like cadence, flowing rotation impacts",
+    "duration_seconds": 0.9,
+    "prompt_influence": 0.7,
+    "notes": "Rhythm Strike special move",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/aria/sfx/sfx-char-aria-004_spin-attack.mp3"
+  },
+  {
+    "id": "SFX-CHAR-ARIA-005",
+    "filename": "combat-characters/aria/sfx/sfx-char-aria-005_hair-whoosh.mp3",
+    "prompt": "Ponytail swishing during spin, flowing hair swoosh sound, signature graceful movement detail",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Aria's signature hair detail",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/aria/sfx/sfx-char-aria-005_hair-whoosh.mp3"
+  },
+  {
+    "id": "SFX-CHAR-KENJI-001",
+    "filename": "combat-characters/kenji/sfx/sfx-char-kenji-001_footstep.mp3",
+    "prompt": "Measured disciplined footstep, traditional martial arts step, controlled karate movement foley",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Kenji's traditional step",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/kenji/sfx/sfx-char-kenji-001_footstep.mp3"
+  },
+  {
+    "id": "SFX-CHAR-KENJI-002",
+    "filename": "combat-characters/kenji/sfx/sfx-char-kenji-002_jump-whoosh.mp3",
+    "prompt": "Controlled perfect form leap, traditional martial arts jump with precise technique, disciplined air movement",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Kenji's controlled jump",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/kenji/sfx/sfx-char-kenji-002_jump-whoosh.mp3"
+  },
+  {
+    "id": "SFX-CHAR-KENJI-003",
+    "filename": "combat-characters/kenji/sfx/sfx-char-kenji-003_land-thud.mp3",
+    "prompt": "Balanced solid landing, perfect martial arts form impact, controlled karate landing foley",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Kenji landing after jump",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/kenji/sfx/sfx-char-kenji-003_land-thud.mp3"
+  },
+  {
+    "id": "SFX-CHAR-KENJI-004",
+    "filename": "combat-characters/kenji/sfx/sfx-char-kenji-004_dragon-fist.mp3",
+    "prompt": "Rising dragon uppercut energy sound, Street Fighter Shoryuken style, invincible rising attack with energy trail",
+    "duration_seconds": 0.7,
+    "prompt_influence": 0.7,
+    "notes": "Rising Dragon Fist special move",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/kenji/sfx/sfx-char-kenji-004_dragon-fist.mp3"
+  },
+  {
+    "id": "SFX-CHAR-KENJI-005",
+    "filename": "combat-characters/kenji/sfx/sfx-char-kenji-005_gi-whoosh.mp3",
+    "prompt": "Traditional karate gi fabric flapping during attack, martial arts uniform rustling, cloth whoosh sound",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Kenji's gi fabric sound",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/kenji/sfx/sfx-char-kenji-005_gi-whoosh.mp3"
+  },
+  {
+    "id": "SFX-CHAR-ZARA-001",
+    "filename": "combat-characters/zara/sfx/sfx-char-zara-001_footstep.mp3",
+    "prompt": "Powerful confident footstep, strong aggressive step with authority, MMA fighter walking foley",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Zara's powerful step",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/zara/sfx/sfx-char-zara-001_footstep.mp3"
+  },
+  {
+    "id": "SFX-CHAR-ZARA-002",
+    "filename": "combat-characters/zara/sfx/sfx-char-zara-002_jump-whoosh.mp3",
+    "prompt": "Explosive leap whoosh, powerful upward burst showing strength, aggressive jump sound",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Zara's explosive jump",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/zara/sfx/sfx-char-zara-002_jump-whoosh.mp3"
+  },
+  {
+    "id": "SFX-CHAR-ZARA-003",
+    "filename": "combat-characters/zara/sfx/sfx-char-zara-003_land-thud.mp3",
+    "prompt": "Heavy solid landing impact, strong impact ready to explode, powerful fighter landing foley",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Zara landing after jump",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/zara/sfx/sfx-char-zara-003_land-thud.mp3"
+  },
+  {
+    "id": "SFX-CHAR-ZARA-004",
+    "filename": "combat-characters/zara/sfx/sfx-char-zara-004_tackle-rush.mp3",
+    "prompt": "Shoulder tackle charging attack, rumbling charge with unstoppable momentum, powerful rush sound",
+    "duration_seconds": 1.0,
+    "prompt_influence": 0.7,
+    "notes": "Power Surge special move",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/zara/sfx/sfx-char-zara-004_tackle-rush.mp3"
+  },
+  {
+    "id": "SFX-CHAR-ZARA-005",
+    "filename": "combat-characters/zara/sfx/sfx-char-zara-005_muscle-flex.mp3",
+    "prompt": "Powerful muscle flex sound, intimidating champion flex, strong presence effect",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Zara's victory flex",
+    "success": true,
+    "output_path": "./assets/audio/combat-characters/zara/sfx/sfx-char-zara-005_muscle-flex.mp3"
+  },
+  {
+    "id": "SFX-BOSS-DUMMY-001",
+    "filename": "bosses/training-dummy/sfx/sfx-boss-dummy-001_creak.mp3",
+    "prompt": "Wooden joints creaking, rhythmic mechanical creaking sound, slightly squeaky hinges, training dummy idle",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Training Dummy idle animation",
+    "success": true,
+    "output_path": "./assets/audio/bosses/training-dummy/sfx/sfx-boss-dummy-001_creak.mp3"
+  },
+  {
+    "id": "SFX-BOSS-DUMMY-002",
+    "filename": "bosses/training-dummy/sfx/sfx-boss-dummy-002_wood-clatter.mp3",
+    "prompt": "Hollow wooden impact, wood blocks colliding sound, distinct training dummy hit, different from flesh impact",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Training Dummy takes damage",
+    "success": true,
+    "output_path": "./assets/audio/bosses/training-dummy/sfx/sfx-boss-dummy-002_wood-clatter.mp3"
+  },
+  {
+    "id": "SFX-BOSS-DUMMY-003",
+    "filename": "bosses/training-dummy/sfx/sfx-boss-dummy-003_spring-boing.mp3",
+    "prompt": "Metal springs bouncing, comedic spring sound, mechanical malfunction, bouncy coil effect",
+    "duration_seconds": 0.6,
+    "prompt_influence": 0.7,
+    "notes": "Training Dummy stunned state",
+    "success": true,
+    "output_path": "./assets/audio/bosses/training-dummy/sfx/sfx-boss-dummy-003_spring-boing.mp3"
+  },
+  {
+    "id": "SFX-BOSS-DUMMY-004",
+    "filename": "bosses/training-dummy/sfx/sfx-boss-dummy-004_spin.mp3",
+    "prompt": "Rotating wooden limbs, whooshing wood with rhythmic clunks, spinning training dummy attack sound",
+    "duration_seconds": 0.8,
+    "prompt_influence": 0.7,
+    "notes": "Practice Mode Spin attack",
+    "success": true,
+    "output_path": "./assets/audio/bosses/training-dummy/sfx/sfx-boss-dummy-004_spin.mp3"
+  },
+  {
+    "id": "SFX-BOSS-DUMMY-005",
+    "filename": "bosses/training-dummy/sfx/sfx-boss-dummy-005_bolt-rattle.mp3",
+    "prompt": "Loose bolts rattling, metallic rattling and mechanical stress, unstable construction sound",
+    "duration_seconds": 1.0,
+    "prompt_influence": 0.7,
+    "notes": "Training Dummy rage mode (loops)",
+    "success": true,
+    "output_path": "./assets/audio/bosses/training-dummy/sfx/sfx-boss-dummy-005_bolt-rattle.mp3"
+  },
+  {
+    "id": "SFX-BOSS-DUMMY-006",
+    "filename": "bosses/training-dummy/sfx/sfx-boss-dummy-006_sawdust-puff.mp3",
+    "prompt": "Puff of sawdust and wood settling, soft air puff with wooden pieces falling, collapse sound",
+    "duration_seconds": 0.8,
+    "prompt_influence": 0.7,
+    "notes": "Training Dummy collapses",
+    "success": true,
+    "output_path": "./assets/audio/bosses/training-dummy/sfx/sfx-boss-dummy-006_sawdust-puff.mp3"
+  },
+  {
+    "id": "SFX-BOSS-DUMMY-007",
+    "filename": "bosses/training-dummy/sfx/sfx-boss-dummy-007_power-down.mp3",
+    "prompt": "Mechanical power-down sound, descending electrical hum, machine shutting off, slow wind-down",
+    "duration_seconds": 1.2,
+    "prompt_influence": 0.7,
+    "notes": "Training Dummy final defeat",
+    "success": true,
+    "output_path": "./assets/audio/bosses/training-dummy/sfx/sfx-boss-dummy-007_power-down.mp3"
+  },
+  {
+    "id": "SFX-BOSS-PHANTOM-001",
+    "filename": "bosses/procrastination-phantom/sfx/sfx-boss-phantom-001_whoosh.mp3",
+    "prompt": "Spectral swoosh, ethereal wind sound, supernatural movement, ghostly presence whoosh",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Phantom movement",
+    "success": true,
+    "output_path": "./assets/audio/bosses/procrastination-phantom/sfx/sfx-boss-phantom-001_whoosh.mp3"
+  },
+  {
+    "id": "SFX-BOSS-PHANTOM-004",
+    "filename": "bosses/procrastination-phantom/sfx/sfx-boss-phantom-004_projectile.mp3",
+    "prompt": "Ghostly energy ball traveling, ethereal whoosh with echo, supernatural projectile sound",
+    "duration_seconds": 1.0,
+    "prompt_influence": 0.7,
+    "notes": "Phantom special attack",
+    "success": true,
+    "output_path": "./assets/audio/bosses/procrastination-phantom/sfx/sfx-boss-phantom-004_projectile.mp3"
+  },
+  {
+    "id": "SFX-BOSS-PHANTOM-005",
+    "filename": "bosses/procrastination-phantom/sfx/sfx-boss-phantom-005_flail.mp3",
+    "prompt": "Annoyed ghostly energy, frustrated supernatural sounds with chaotic movement, irritated spirit",
+    "duration_seconds": 0.8,
+    "prompt_influence": 0.7,
+    "notes": "Phantom rage mode",
+    "success": false,
+    "error": "headers: {'date': 'Sat, 01 Nov 2025 22:03:43 GMT', 'server': 'uvicorn', 'content-length': '121', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=31536000; includeSubDomains', 'x-trace-id': 'bd5940b2b8d453a5c79b324efdb070be', 'x-region': 'us-central1', 'via': '1.1 google, 1.1 google', 'alt-svc': 'h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000'}, status_code: 429, body: {'detail': {'status': 'system_busy', 'message': 'We are sorry, the system is experiencing heavy traffic, please try again.'}}"
+  },
+  {
+    "id": "SFX-BOSS-PHANTOM-006",
+    "filename": "bosses/procrastination-phantom/sfx/sfx-boss-phantom-006_defeat.mp3",
+    "prompt": "Complete surrender, ghostly sigh fading to nothing, spectral disappearance, giving up entirely",
+    "duration_seconds": 1.5,
+    "prompt_influence": 0.7,
+    "notes": "Phantom defeated",
+    "success": true,
+    "output_path": "./assets/audio/bosses/procrastination-phantom/sfx/sfx-boss-phantom-006_defeat.mp3"
+  },
+  {
+    "id": "SFX-BOSS-SLOTH-001",
+    "filename": "bosses/sloth-demon/sfx/sfx-boss-sloth-001_breathing.mp3",
+    "prompt": "Slow heavy breathing, deep drowsy breaths from massive lungs, tired creature inhale and exhale",
+    "duration_seconds": 2.0,
+    "prompt_influence": 0.7,
+    "notes": "Sloth Demon idle (slow cycle)",
+    "success": true,
+    "output_path": "./assets/audio/bosses/sloth-demon/sfx/sfx-boss-sloth-001_breathing.mp3"
+  },
+  {
+    "id": "SFX-BOSS-SLOTH-003",
+    "filename": "bosses/sloth-demon/sfx/sfx-boss-sloth-003_thud.mp3",
+    "prompt": "Heavy footstep or knuckle impact, ground-shaking weight, massive creature movement foley",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Sloth walks/moves",
+    "success": true,
+    "output_path": "./assets/audio/bosses/sloth-demon/sfx/sfx-boss-sloth-003_thud.mp3"
+  },
+  {
+    "id": "SFX-BOSS-SLOTH-005",
+    "filename": "bosses/sloth-demon/sfx/sfx-boss-sloth-005_ground-pound.mp3",
+    "prompt": "Massive impact, entire body weight falling, shockwave ground pound, earthquake-like thud",
+    "duration_seconds": 0.8,
+    "prompt_influence": 0.7,
+    "notes": "Sloth ground pound attack",
+    "success": true,
+    "output_path": "./assets/audio/bosses/sloth-demon/sfx/sfx-boss-sloth-005_ground-pound.mp3"
+  },
+  {
+    "id": "SFX-BOSS-SLOTH-006",
+    "filename": "bosses/sloth-demon/sfx/sfx-boss-sloth-006_chest-beat.mp3",
+    "prompt": "Gorilla-like chest beating, deep thumps on chest, slow but powerful percussion",
+    "duration_seconds": 1.0,
+    "prompt_influence": 0.7,
+    "notes": "Sloth rage mode",
+    "success": true,
+    "output_path": "./assets/audio/bosses/sloth-demon/sfx/sfx-boss-sloth-006_chest-beat.mp3"
+  },
+  {
+    "id": "SFX-BOSS-SLOTH-007",
+    "filename": "bosses/sloth-demon/sfx/sfx-boss-sloth-007_snore.mp3",
+    "prompt": "Deep rumbling snore, creature immediately falling asleep, heavy breathing with snoring sound",
+    "duration_seconds": 2.0,
+    "prompt_influence": 0.7,
+    "notes": "Sloth defeated, falls asleep",
+    "success": true,
+    "output_path": "./assets/audio/bosses/sloth-demon/sfx/sfx-boss-sloth-007_snore.mp3"
+  },
+  {
+    "id": "SFX-BOSS-BULLY-001",
+    "filename": "bosses/gym-bully/sfx/sfx-boss-bully-001_knuckle-crack.mp3",
+    "prompt": "Cocky knuckle cracking, multiple finger cracks, intimidating hand sound, aggressive preparation",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Gym Bully idle animation",
+    "success": true,
+    "output_path": "./assets/audio/bosses/gym-bully/sfx/sfx-boss-bully-001_knuckle-crack.mp3"
+  },
+  {
+    "id": "SFX-BOSS-BULLY-004",
+    "filename": "bosses/gym-bully/sfx/sfx-boss-bully-004_flex.mp3",
+    "prompt": "Flexing muscle before explosive punch, muscle tense sound then explosive release, power buildup",
+    "duration_seconds": 0.6,
+    "prompt_influence": 0.7,
+    "notes": "Gym Bully flex taunt attack",
+    "success": true,
+    "output_path": "./assets/audio/bosses/gym-bully/sfx/sfx-boss-bully-004_flex.mp3"
+  },
+  {
+    "id": "SFX-BOSS-BULLY-005",
+    "filename": "bosses/gym-bully/sfx/sfx-boss-bully-005_veins-bulge.mp3",
+    "prompt": "Extreme anger, veins popping sound, intense straining with fury building, explosive rage",
+    "duration_seconds": 1.0,
+    "prompt_influence": 0.7,
+    "notes": "Gym Bully rage mode",
+    "success": true,
+    "output_path": "./assets/audio/bosses/gym-bully/sfx/sfx-boss-bully-005_veins-bulge.mp3"
+  },
+  {
+    "id": "SFX-BOSS-BULLY-006",
+    "filename": "bosses/gym-bully/sfx/sfx-boss-bully-006_ego-shatter.mp3",
+    "prompt": "Confusion and disbelief, sunglasses falling askew, ego breaking sound effect, stunned reaction",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Gym Bully stunned state",
+    "success": true,
+    "output_path": "./assets/audio/bosses/gym-bully/sfx/sfx-boss-bully-006_ego-shatter.mp3"
+  },
+  {
+    "id": "SFX-BOSS-BULLY-007",
+    "filename": "bosses/gym-bully/sfx/sfx-boss-bully-007_collapse.mp3",
+    "prompt": "Falls to knees heavily, can't believe defeat, heavy fall with ego destroyed sound",
+    "duration_seconds": 1.2,
+    "prompt_influence": 0.7,
+    "notes": "Gym Bully defeated",
+    "success": true,
+    "output_path": "./assets/audio/bosses/gym-bully/sfx/sfx-boss-bully-007_collapse.mp3"
+  },
+  {
+    "id": "SFX-BOSS-TITAN-001",
+    "filename": "bosses/stress-titan/sfx/sfx-boss-titan-001_crackle.mp3",
+    "prompt": "Unstable electrical crackling, sparking energy barely contained, electrical discharge sound",
+    "duration_seconds": 0.6,
+    "prompt_influence": 0.7,
+    "notes": "Stress Titan idle animation",
+    "success": true,
+    "output_path": "./assets/audio/bosses/stress-titan/sfx/sfx-boss-titan-001_crackle.mp3"
+  },
+  {
+    "id": "SFX-BOSS-TITAN-002",
+    "filename": "bosses/stress-titan/sfx/sfx-boss-titan-002_crack-widen.mp3",
+    "prompt": "Porcelain cracks spreading with sparks, glass cracking with electrical discharge, fracture expanding",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Stress Titan takes damage",
+    "success": true,
+    "output_path": "./assets/audio/bosses/stress-titan/sfx/sfx-boss-titan-002_crack-widen.mp3"
+  },
+  {
+    "id": "SFX-BOSS-TITAN-003",
+    "filename": "bosses/stress-titan/sfx/sfx-boss-titan-003_mechanical-jerk.mp3",
+    "prompt": "Jerky robotic movement, mechanical servos sparking, unstable robot motion foley",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Stress Titan walks/approaches",
+    "success": true,
+    "output_path": "./assets/audio/bosses/stress-titan/sfx/sfx-boss-titan-003_mechanical-jerk.mp3"
+  },
+  {
+    "id": "SFX-BOSS-TITAN-004",
+    "filename": "bosses/stress-titan/sfx/sfx-boss-titan-004_discharge.mp3",
+    "prompt": "Explosive energy release punch, building electrical charge then explosive discharge, power surge attack",
+    "duration_seconds": 0.7,
+    "prompt_influence": 0.7,
+    "notes": "Stress Titan energy attacks",
+    "success": true,
+    "output_path": "./assets/audio/bosses/stress-titan/sfx/sfx-boss-titan-004_discharge.mp3"
+  },
+  {
+    "id": "SFX-BOSS-TITAN-005",
+    "filename": "bosses/stress-titan/sfx/sfx-boss-titan-005_overload.mp3",
+    "prompt": "All systems overloading with smoking, multiple alarms, crackling intensifies, cracks glowing, critical meltdown",
+    "duration_seconds": 1.2,
+    "prompt_influence": 0.7,
+    "notes": "Stress Titan rage mode",
+    "success": true,
+    "output_path": "./assets/audio/bosses/stress-titan/sfx/sfx-boss-titan-005_overload.mp3"
+  },
+  {
+    "id": "SFX-BOSS-TITAN-006",
+    "filename": "bosses/stress-titan/sfx/sfx-boss-titan-006_glitch.mp3",
+    "prompt": "Systems failing and flickering, electrical glitching, power fluctuation, malfunctioning robot",
+    "duration_seconds": 0.8,
+    "prompt_influence": 0.7,
+    "notes": "Stress Titan stunned state",
+    "success": true,
+    "output_path": "./assets/audio/bosses/stress-titan/sfx/sfx-boss-titan-006_glitch.mp3"
+  },
+  {
+    "id": "SFX-BOSS-TITAN-007",
+    "filename": "bosses/stress-titan/sfx/sfx-boss-titan-007_catastrophic-failure.mp3",
+    "prompt": "Complete system collapse explosion, cracks exploding outward, massive energy discharge, robot falling apart",
+    "duration_seconds": 2.0,
+    "prompt_influence": 0.7,
+    "notes": "Stress Titan defeated",
+    "success": true,
+    "output_path": "./assets/audio/bosses/stress-titan/sfx/sfx-boss-titan-007_catastrophic-failure.mp3"
+  },
+  {
+    "id": "SFX-BOSS-SLUMP-003",
+    "filename": "bosses/ultimate-slump/sfx/sfx-boss-slump-003_trudge.mp3",
+    "prompt": "Slow labored footsteps, dragging feet with effort visible, exhausted walking foley",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Ultimate Slump walks/approaches",
+    "success": true,
+    "output_path": "./assets/audio/bosses/ultimate-slump/sfx/sfx-boss-slump-003_trudge.mp3"
+  },
+  {
+    "id": "SFX-BOSS-SLUMP-004",
+    "filename": "bosses/ultimate-slump/sfx/sfx-boss-slump-004_haymaker.mp3",
+    "prompt": "Wild poor form attack with effort, whoosh with exhausted grunt, desperate flailing punch",
+    "duration_seconds": 0.8,
+    "prompt_influence": 0.7,
+    "notes": "Ultimate Slump desperate attacks",
+    "success": true,
+    "output_path": "./assets/audio/bosses/ultimate-slump/sfx/sfx-boss-slump-004_haymaker.mp3"
+  },
+  {
+    "id": "SFX-BOSS-SLUMP-007",
+    "filename": "bosses/ultimate-slump/sfx/sfx-boss-slump-007_collapse.mp3",
+    "prompt": "Falls flat completely spent, heavy exhausted fall, gives up entirely with final thud",
+    "duration_seconds": 1.5,
+    "prompt_influence": 0.7,
+    "notes": "Ultimate Slump defeated",
+    "success": true,
+    "output_path": "./assets/audio/bosses/ultimate-slump/sfx/sfx-boss-slump-007_collapse.mp3"
+  },
+  {
+    "id": "SFX-UI-001",
+    "filename": "ui/sfx-ui-001_button-press-primary.mp3",
+    "prompt": "Standard 8-bit button press sound, satisfying click with Game Boy tactile feedback, retro UI confirm",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Primary CTA buttons",
+    "success": true,
+    "output_path": "./assets/audio/ui/sfx-ui-001_button-press-primary.mp3"
+  },
+  {
+    "id": "SFX-UI-002",
+    "filename": "ui/sfx-ui-002_button-press-secondary.mp3",
+    "prompt": "Lighter 8-bit button press, softer click less emphasized, subtle retro UI confirm",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Secondary buttons, tertiary links",
+    "success": true,
+    "output_path": "./assets/audio/ui/sfx-ui-002_button-press-secondary.mp3"
+  },
+  {
+    "id": "SFX-UI-003",
+    "filename": "ui/sfx-ui-003_card-select.mp3",
+    "prompt": "Upward 8-bit chime for positive selection, cheerful Pokemon-style menu select, ascending retro tone",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Card/archetype selection",
+    "success": true,
+    "output_path": "./assets/audio/ui/sfx-ui-003_card-select.mp3"
+  },
+  {
+    "id": "SFX-UI-004",
+    "filename": "ui/sfx-ui-004_card-deselect.mp3",
+    "prompt": "Downward 8-bit blip for deselection, neutral not negative tone, descending retro sound",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Deselecting previous card",
+    "success": true,
+    "output_path": "./assets/audio/ui/sfx-ui-004_card-deselect.mp3"
+  },
+  {
+    "id": "SFX-UI-005",
+    "filename": "ui/sfx-ui-005_input-focus.mp3",
+    "prompt": "Subtle selection beep, quiet attention-grabbing tone, retro text input focus sound",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Text input fields receive focus",
+    "success": true,
+    "output_path": "./assets/audio/ui/sfx-ui-005_input-focus.mp3"
+  },
+  {
+    "id": "SFX-UI-006",
+    "filename": "ui/sfx-ui-006_validation-error.mp3",
+    "prompt": "8-bit wrong buzzer, Street Fighter 2 style error tone, clear negative feedback not harsh",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Form validation errors",
+    "success": true,
+    "output_path": "./assets/audio/ui/sfx-ui-006_validation-error.mp3"
+  },
+  {
+    "id": "SFX-UI-007",
+    "filename": "ui/sfx-ui-007_validation-success.mp3",
+    "prompt": "Quick success chime single note, rewarding positive tone, retro confirmation sound",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Quick success confirmations",
+    "success": true,
+    "output_path": "./assets/audio/ui/sfx-ui-007_validation-success.mp3"
+  },
+  {
+    "id": "SFX-UI-008",
+    "filename": "ui/sfx-ui-008_success-fanfare.mp3",
+    "prompt": "8-bit melody celebrating major success, Pokemon achievement style fanfare, triumphant retro jingle",
+    "duration_seconds": 0.8,
+    "prompt_influence": 0.7,
+    "notes": "Profile creation success",
+    "success": true,
+    "output_path": "./assets/audio/ui/sfx-ui-008_success-fanfare.mp3"
+  },
+  {
+    "id": "SFX-UI-009",
+    "filename": "ui/sfx-ui-009_transition-forward.mp3",
+    "prompt": "Ascending 8-bit tone, page turn sound showing progress, forward navigation retro effect",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Forward navigation in flows",
+    "success": true,
+    "output_path": "./assets/audio/ui/sfx-ui-009_transition-forward.mp3"
+  },
+  {
+    "id": "SFX-UI-010",
+    "filename": "ui/sfx-ui-010_transition-back.mp3",
+    "prompt": "Descending 8-bit tone, gentle return sound, back button navigation retro effect",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Back button navigation",
+    "success": true,
+    "output_path": "./assets/audio/ui/sfx-ui-010_transition-back.mp3"
+  },
+  {
+    "id": "SFX-UI-011",
+    "filename": "ui/sfx-ui-011_loading-loop.mp3",
+    "prompt": "Subtle 8-bit loading pulse, calm patient non-intrusive loop, retro processing sound",
+    "duration_seconds": 2.0,
+    "prompt_influence": 0.7,
+    "notes": "Loading states (loops)",
+    "success": true,
+    "output_path": "./assets/audio/ui/sfx-ui-011_loading-loop.mp3"
+  },
+  {
+    "id": "SFX-UI-012",
+    "filename": "ui/sfx-ui-012_toast-appear.mp3",
+    "prompt": "Quick notification pop sound, attention-grabbing but not alarming, retro toast slide in",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Toast notifications",
+    "success": true,
+    "output_path": "./assets/audio/ui/sfx-ui-012_toast-appear.mp3"
+  },
+  {
+    "id": "SFX-UI-013",
+    "filename": "ui/sfx-ui-013_tab-switch.mp3",
+    "prompt": "Soft menu switch sound, clean organized tone, retro tab navigation click",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Bottom tab bar navigation",
+    "success": true,
+    "output_path": "./assets/audio/ui/sfx-ui-013_tab-switch.mp3"
+  },
+  {
+    "id": "SFX-UI-014",
+    "filename": "ui/sfx-ui-014_cartridge-load.mp3",
+    "prompt": "Game Boy cartridge insertion sound, mechanical click with satisfying snap, nostalgic hardware simulation",
+    "duration_seconds": 1.2,
+    "prompt_influence": 0.7,
+    "notes": "Battle mode entry transition",
+    "success": true,
+    "output_path": "./assets/audio/ui/sfx-ui-014_cartridge-load.mp3"
+  },
+  {
+    "id": "SFX-UI-015",
+    "filename": "ui/sfx-ui-015_progress-ring-complete.mp3",
+    "prompt": "Celebration chime for ring completion, achievement unlocked style, rewarding retro fanfare",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Daily/weekly progress complete",
+    "success": true,
+    "output_path": "./assets/audio/ui/sfx-ui-015_progress-ring-complete.mp3"
+  },
+  {
+    "id": "SFX-UI-016",
+    "filename": "ui/sfx-ui-016_streak-milestone.mp3",
+    "prompt": "Escalating chime sequence, increasingly celebratory tones, milestone achievement retro jingle",
+    "duration_seconds": 0.7,
+    "prompt_influence": 0.7,
+    "notes": "Streak milestones (3, 7, 14, 30 days)",
+    "success": true,
+    "output_path": "./assets/audio/ui/sfx-ui-016_streak-milestone.mp3"
+  },
+  {
+    "id": "SFX-PROG-001",
+    "filename": "progression/sfx-prog-001_evolution-start.mp3",
+    "prompt": "Magical transformation initiation, Pokemon evolution start sound, mystical building power",
+    "duration_seconds": 2.0,
+    "prompt_influence": 0.7,
+    "notes": "Evolution ceremony begins",
+    "success": true,
+    "output_path": "./assets/audio/progression/sfx-prog-001_evolution-start.mp3"
+  },
+  {
+    "id": "SFX-PROG-002",
+    "filename": "progression/sfx-prog-002_evolution-complete.mp3",
+    "prompt": "Triumphant transformation finale, Pokemon evolution complete sound, satisfying resolution jingle",
+    "duration_seconds": 3.0,
+    "prompt_influence": 0.7,
+    "notes": "Evolution animation completes",
+    "success": true,
+    "output_path": "./assets/audio/progression/sfx-prog-002_evolution-complete.mp3"
+  },
+  {
+    "id": "SFX-PROG-003",
+    "filename": "progression/sfx-prog-003_stat-increase.mp3",
+    "prompt": "Level-up style ascending tone, RPG stat boost sound, clear improvement chime",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Combat stats increase",
+    "success": true,
+    "output_path": "./assets/audio/progression/sfx-prog-003_stat-increase.mp3"
+  },
+  {
+    "id": "SFX-PROG-004",
+    "filename": "progression/sfx-prog-004_experience-gain.mp3",
+    "prompt": "Subtle points accumulation, rewarding progressive tone, experience points added",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Fitness activity contribution",
+    "success": true,
+    "output_path": "./assets/audio/progression/sfx-prog-004_experience-gain.mp3"
+  },
+  {
+    "id": "SFX-PROG-005",
+    "filename": "progression/sfx-prog-005_threshold-reached.mp3",
+    "prompt": "Escalating alert milestone approaching, excitement building tone, threshold warning",
+    "duration_seconds": 0.8,
+    "prompt_influence": 0.7,
+    "notes": "90% evolution progress",
+    "success": true,
+    "output_path": "./assets/audio/progression/sfx-prog-005_threshold-reached.mp3"
+  },
+  {
+    "id": "SFX-PROG-006",
+    "filename": "progression/sfx-prog-006_workout-logged.mp3",
+    "prompt": "Confirmation beep with satisfaction, task complete positive tone, workout entry confirmed",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Manual workout entry",
+    "success": true,
+    "output_path": "./assets/audio/progression/sfx-prog-006_workout-logged.mp3"
+  },
+  {
+    "id": "SFX-PROG-007",
+    "filename": "progression/sfx-prog-007_daily-goal-complete.mp3",
+    "prompt": "Achievement fanfare medium level, celebratory well done jingle, daily milestone reached",
+    "duration_seconds": 1.0,
+    "prompt_influence": 0.7,
+    "notes": "Daily step goal reached",
+    "success": true,
+    "output_path": "./assets/audio/progression/sfx-prog-007_daily-goal-complete.mp3"
+  },
+  {
+    "id": "SFX-PROG-008",
+    "filename": "progression/sfx-prog-008_weekly-goal-complete.mp3",
+    "prompt": "Achievement fanfare major level, epic celebration jingle, big milestone reached",
+    "duration_seconds": 1.5,
+    "prompt_influence": 0.7,
+    "notes": "Weekly goals completed",
+    "success": true,
+    "output_path": "./assets/audio/progression/sfx-prog-008_weekly-goal-complete.mp3"
+  },
+  {
+    "id": "SFX-PROG-009",
+    "filename": "progression/sfx-prog-009_avatar-reaction-positive.mp3",
+    "prompt": "Happy chirp, cute encouraging character acknowledgment, positive reaction sound",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Home avatar positive animation",
+    "success": true,
+    "output_path": "./assets/audio/progression/sfx-prog-009_avatar-reaction-positive.mp3"
+  },
+  {
+    "id": "SFX-PROG-010",
+    "filename": "progression/sfx-prog-010_avatar-reaction-negative.mp3",
+    "prompt": "Concerned sigh, gentle disappointment not harsh, motivational nudge sound",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Home avatar negative animation",
+    "success": true,
+    "output_path": "./assets/audio/progression/sfx-prog-010_avatar-reaction-negative.mp3"
+  },
+  {
+    "id": "SFX-ACHIEVE-001",
+    "filename": "achievements/sfx-achieve-001_unlock.mp3",
+    "prompt": "Triumphant achievement fanfare, Xbox PlayStation style 8-bit unlock, celebration jingle",
+    "duration_seconds": 1.2,
+    "prompt_influence": 0.7,
+    "notes": "Any achievement unlocked",
+    "success": true,
+    "output_path": "./assets/audio/achievements/sfx-achieve-001_unlock.mp3"
+  },
+  {
+    "id": "SFX-ACHIEVE-002",
+    "filename": "achievements/sfx-achieve-002_first-victory.mp3",
+    "prompt": "Special extended victory theme, tutorial complete major milestone, triumphant jingle",
+    "duration_seconds": 5.0,
+    "prompt_influence": 0.7,
+    "notes": "First boss defeat",
+    "success": true,
+    "output_path": "./assets/audio/achievements/sfx-achieve-002_first-victory.mp3"
+  },
+  {
+    "id": "SFX-ACHIEVE-003",
+    "filename": "achievements/sfx-achieve-003_perfect-victory.mp3",
+    "prompt": "Extra special victory theme, flawless performance ultimate satisfaction, perfect round jingle",
+    "duration_seconds": 3.0,
+    "prompt_influence": 0.7,
+    "notes": "No damage taken victory",
+    "success": true,
+    "output_path": "./assets/audio/achievements/sfx-achieve-003_perfect-victory.mp3"
+  },
+  {
+    "id": "SFX-ACHIEVE-004",
+    "filename": "achievements/sfx-achieve-004_streak-extended.mp3",
+    "prompt": "Building momentum sound, escalating excitement tone, streak continuation positive",
+    "duration_seconds": 0.6,
+    "prompt_influence": 0.7,
+    "notes": "Daily activity streak continues",
+    "success": true,
+    "output_path": "./assets/audio/achievements/sfx-achieve-004_streak-extended.mp3"
+  },
+  {
+    "id": "SFX-ACHIEVE-005",
+    "filename": "achievements/sfx-achieve-005_streak-broken.mp3",
+    "prompt": "Disappointed loss sound not punishing, gentle letdown motivational tone, streak end",
+    "duration_seconds": 0.8,
+    "prompt_influence": 0.7,
+    "notes": "Streak breaks",
+    "success": true,
+    "output_path": "./assets/audio/achievements/sfx-achieve-005_streak-broken.mp3"
+  },
+  {
+    "id": "SFX-ACHIEVE-006",
+    "filename": "achievements/sfx-achieve-006_character-unlock.mp3",
+    "prompt": "New character fanfare, Street Fighter 2 character select style, exciting new content jingle",
+    "duration_seconds": 2.0,
+    "prompt_influence": 0.7,
+    "notes": "Combat character unlocked (post-MVP)",
+    "success": true,
+    "output_path": "./assets/audio/achievements/sfx-achieve-006_character-unlock.mp3"
+  },
+  {
+    "id": "SFX-ACHIEVE-007",
+    "filename": "achievements/sfx-achieve-007_boss-unlocked.mp3",
+    "prompt": "Ominous unlock sound, challenging content ahead dramatic tone, boss available fanfare",
+    "duration_seconds": 2.5,
+    "prompt_influence": 0.7,
+    "notes": "Boss unlocked (post-MVP)",
+    "success": true,
+    "output_path": "./assets/audio/achievements/sfx-achieve-007_boss-unlocked.mp3"
+  },
+  {
+    "id": "SFX-HEALTH-001",
+    "filename": "health/sfx-health-001_sync-start.mp3",
+    "prompt": "Data transfer initiation, technical organized sound, sync beginning tone",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Health data sync begins",
+    "success": true,
+    "output_path": "./assets/audio/health/sfx-health-001_sync-start.mp3"
+  },
+  {
+    "id": "SFX-HEALTH-002",
+    "filename": "health/sfx-health-002_sync-complete.mp3",
+    "prompt": "Successful data transfer, smooth confirmation tone, sync complete sound",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Health data sync success",
+    "success": true,
+    "output_path": "./assets/audio/health/sfx-health-002_sync-complete.mp3"
+  },
+  {
+    "id": "SFX-HEALTH-003",
+    "filename": "health/sfx-health-003_sync-error.mp3",
+    "prompt": "Error alert needs attention, clear problem indicator, sync failure tone",
+    "duration_seconds": 0.6,
+    "prompt_influence": 0.7,
+    "notes": "Health data sync fails",
+    "success": true,
+    "output_path": "./assets/audio/health/sfx-health-003_sync-error.mp3"
+  },
+  {
+    "id": "SFX-HEALTH-004",
+    "filename": "health/sfx-health-004_step-goal-progress.mp3",
+    "prompt": "Subtle milestone chime, encouraging progress tone, quarter milestone reached",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "25%, 50%, 75% of daily steps",
+    "success": true,
+    "output_path": "./assets/audio/health/sfx-health-004_step-goal-progress.mp3"
+  },
+  {
+    "id": "SFX-HEALTH-005",
+    "filename": "health/sfx-health-005_step-update.mp3",
+    "prompt": "Quiet tick sound, almost subliminal feedback, subtle step count update",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Real-time step count updates",
+    "success": true,
+    "output_path": "./assets/audio/health/sfx-health-005_step-update.mp3"
+  },
+  {
+    "id": "SFX-SYS-001",
+    "filename": "system/sfx-sys-001_toggle-on.mp3",
+    "prompt": "Switch activation sound, positive enabled tone, toggle on click",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Settings toggle ON",
+    "success": true,
+    "output_path": "./assets/audio/system/sfx-sys-001_toggle-on.mp3"
+  },
+  {
+    "id": "SFX-SYS-002",
+    "filename": "system/sfx-sys-002_toggle-off.mp3",
+    "prompt": "Switch deactivation sound, neutral disabled tone, toggle off click",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Settings toggle OFF",
+    "success": true,
+    "output_path": "./assets/audio/system/sfx-sys-002_toggle-off.mp3"
+  },
+  {
+    "id": "SFX-SYS-003",
+    "filename": "system/sfx-sys-003_volume-adjust.mp3",
+    "prompt": "Test tone for volume slider, simple reference beep, volume level indicator",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Volume slider adjustment",
+    "success": true,
+    "output_path": "./assets/audio/system/sfx-sys-003_volume-adjust.mp3"
+  },
+  {
+    "id": "SFX-SYS-004",
+    "filename": "system/sfx-sys-004_logout.mp3",
+    "prompt": "Confirmation sound, final decisive tone, logout action confirmed",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "User logout confirmed",
+    "success": true,
+    "output_path": "./assets/audio/system/sfx-sys-004_logout.mp3"
+  },
+  {
+    "id": "SFX-SYS-005",
+    "filename": "system/sfx-sys-005_account-deleted.mp3",
+    "prompt": "Deletion confirmation, final permanent tone, destructive action complete",
+    "duration_seconds": 0.8,
+    "prompt_influence": 0.7,
+    "notes": "Account deletion confirmed",
+    "success": true,
+    "output_path": "./assets/audio/system/sfx-sys-005_account-deleted.mp3"
+  },
+  {
+    "id": "SFX-SYS-006",
+    "filename": "system/sfx-sys-006_permission-granted.mp3",
+    "prompt": "Access granted sound, welcoming positive tone, permission accepted",
+    "duration_seconds": 0.6,
+    "prompt_influence": 0.7,
+    "notes": "HealthKit/notification permissions granted",
+    "success": true,
+    "output_path": "./assets/audio/system/sfx-sys-006_permission-granted.mp3"
+  },
+  {
+    "id": "SFX-SYS-007",
+    "filename": "system/sfx-sys-007_permission-denied.mp3",
+    "prompt": "Access denied sound, blocked needs attention tone, permission rejected",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "User denies permissions",
+    "success": true,
+    "output_path": "./assets/audio/system/sfx-sys-007_permission-denied.mp3"
+  },
+  {
+    "id": "SFX-AMB-001",
+    "filename": "ambient/sfx-amb-001_menu-hover.mp3",
+    "prompt": "Subtle selection hover, Pokemon menu cursor movement, quiet focus sound",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Hover over interactive elements",
+    "success": true,
+    "output_path": "./assets/audio/ambient/sfx-amb-001_menu-hover.mp3"
+  },
+  {
+    "id": "SFX-AMB-002",
+    "filename": "ambient/sfx-amb-002_avatar-blink.mp3",
+    "prompt": "Soft character animation sound, cute lifelike blink, gentle eye close",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Home avatar idle blink",
+    "success": true,
+    "output_path": "./assets/audio/ambient/sfx-amb-002_avatar-blink.mp3"
+  },
+  {
+    "id": "SFX-AMB-003",
+    "filename": "ambient/sfx-amb-003_rain.mp3",
+    "prompt": "8-bit rain atmosphere, calming background ambiance, retro weather loop",
+    "duration_seconds": 5.0,
+    "prompt_influence": 0.7,
+    "notes": "Weather theme (optional, loops)",
+    "success": true,
+    "output_path": "./assets/audio/ambient/sfx-amb-003_rain.mp3"
+  },
+  {
+    "id": "SFX-AMB-004",
+    "filename": "ambient/sfx-amb-004_cartridge-pulse.mp3",
+    "prompt": "Glowing pulse sound, attention-grabbing available action, quest available indicator",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Quest button pulse (repeats every 3s)",
+    "success": true,
+    "output_path": "./assets/audio/ambient/sfx-amb-004_cartridge-pulse.mp3"
+  },
+  {
+    "id": "SFX-AMB-005",
+    "filename": "ambient/sfx-amb-005_tutorial-hint.mp3",
+    "prompt": "Helper notification sound, friendly reminder Pokemon Pokedex style, tutorial prompt tone",
+    "duration_seconds": 0.5,
+    "prompt_influence": 0.7,
+    "notes": "Tutorial prompts appear",
+    "success": true,
+    "output_path": "./assets/audio/ambient/sfx-amb-005_tutorial-hint.mp3"
+  }
+]
