@@ -1,0 +1,100 @@
+Captured September 7, 2026. Existing application unchanged.
+
+TypeScript
+v22.22.2
+
+> 16bitfit-app@1.0.0 type-check
+> tsc --noEmit
+
+
+Lint
+
+> 16bitfit-app@1.0.0 lint
+> eslint src --ext .ts,.tsx
+
+
+Oops! Something went wrong! :(
+
+ESLint: 9.39.4
+
+ESLint couldn't find an eslint.config.(js|mjs|cjs) file.
+
+From ESLint v9.0.0, the default configuration file is now eslint.config.js.
+If you are using a .eslintrc.* file, please follow the migration guide
+to update your configuration file to the new format:
+
+https://eslint.org/docs/latest/use/configure/migration-guide
+
+If you still have problems after following the migration guide, please stop by
+https://eslint.org/chat/help to chat with the team.
+
+
+Unit tests
+PASS src/screens/workout/WorkoutCompleteCeremony/__tests__/WorkoutCompleteCeremony.test.tsx
+PASS src/components/atoms/PixelCheckbox/__tests__/PixelCheckbox.test.tsx
+PASS src/components/atoms/PixelBorder/__tests__/PixelBorder.test.tsx
+PASS src/components/atoms/PixelProgressBar/__tests__/PixelProgressBar.test.tsx
+PASS src/components/atoms/PixelInput/__tests__/PixelInput.test.tsx
+PASS src/components/atoms/PixelIcon/__tests__/PixelIcon.test.tsx
+PASS src/components/atoms/PixelBadge/__tests__/PixelBadge.test.tsx
+PASS src/components/atoms/PixelDivider/__tests__/PixelDivider.test.tsx
+PASS src/components/atoms/PixelButton/__tests__/PixelButton.test.tsx
+PASS src/components/atoms/PixelText/__tests__/PixelText.test.tsx
+PASS src/components/atoms/PixelSprite/__tests__/PixelSprite.test.tsx
+PASS src/components/molecules/ArchetypeCard/__tests__/ArchetypeCard.test.tsx
+PASS src/services/sprite-provider/__tests__/sprite-provider.test.ts
+PASS src/__tests__/smoke.test.ts
+
+Test Suites: 1 skipped, 14 passed, 14 of 15 total
+Tests:       23 skipped, 210 passed, 233 total
+Snapshots:   0 total
+Time:        3.724 s
+
+Expo compatibility
+The following packages should be updated for best compatibility with the installed expo version:
+  expo@54.0.34 - expected version: ~54.0.37
+  expo-font@14.0.11 - expected version: ~14.0.12
+  @types/jest@30.0.0 - expected version: 29.5.14
+  babel-preset-expo@55.0.21 - expected version: ~54.0.10
+  eslint-config-expo@55.0.0 - expected version: ~10.0.0
+  jest-expo@55.0.17 - expected version: ~54.0.18
+Your project may not work correctly until you install the expected versions of the packages.
+Found outdated dependencies
+
+iOS bundle export
+| (node:96996) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+| (Use `node --trace-warnings ...` to show where the warning was created)
+| (node:96997) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+| (Use `node --trace-warnings ...` to show where the warning was created)
+| (node:97001) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+| (Use `node --trace-warnings ...` to show where the warning was created)
+| (node:96998) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+| (Use `node --trace-warnings ...` to show where the warning was created)
+| (node:97000) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+| (Use `node --trace-warnings ...` to show where the warning was created)
+| (node:96999) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+| (Use `node --trace-warnings ...` to show where the warning was created)
+| (node:97004) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+| (Use `node --trace-warnings ...` to show where the warning was created)
+| (node:97003) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+| (Use `node --trace-warnings ...` to show where the warning was created)
+| (node:97002) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+| (Use `node --trace-warnings ...` to show where the warning was created)
+iOS ./index.ts ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 99.9% (1219/1219)
+iOS Bundled 4220ms index.ts (1219 modules)
+
+› Assets (16):
+node_modules/@react-navigation/elements/lib/module/assets/back-icon-mask.png (653 B)
+node_modules/@react-navigation/elements/lib/module/assets/back-icon.png (4 variations | 566 B)
+node_modules/@react-navigation/elements/lib/module/assets/clear-icon.png (4 variations | 425 B)
+node_modules/@react-navigation/elements/lib/module/assets/close-icon.png (4 variations | 235 B)
+node_modules/@react-navigation/elements/lib/module/assets/search-icon.png (3 variations | 582 B)
+
+› ios bundles (1):
+_expo/static/js/ios/index-ce00cb2f1ed3b355762701d5cbafea2a.hbc (3.43 MB)
+
+› Files (1):
+metadata.json (1.34 kB)
+
+Exported: /tmp/16bitfit-audit-ios.cVIGtZ
+

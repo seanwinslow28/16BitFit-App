@@ -31,7 +31,12 @@ yarn-error.*
 *.pem
 
 # local env files
-.env*.local
+.env
+.env.*
+!.env.example
+
+# Local agent scratch files and migrated tracker snapshots
+.scratch/
 
 # typescript
 *.tsbuildinfo
